@@ -1,0 +1,59 @@
+2025-05-13 04:21:29,462 - blockchain.local_blockchain - ERROR - Block #1 has an invalid hash
+2025-05-13 04:21:29,470 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 04:21:29,470 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 04:21:29,470 - werkzeug - INFO -  * Restarting with stat
+2025-05-13 04:21:29,630 - blockchain.local_blockchain - ERROR - Block #1 has an invalid hash
+2025-05-13 04:21:29,637 - werkzeug - WARNING -  * Debugger is active!
+2025-05-13 04:21:29,640 - werkzeug - INFO -  * Debugger PIN: 740-995-510
+2025-05-13 04:22:27,505 - blockchain.local_blockchain - ERROR - Block #1 has an invalid hash
+2025-05-13 04:22:27,511 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 04:22:27,511 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 04:22:27,511 - werkzeug - INFO -  * Restarting with stat
+2025-05-13 04:22:27,661 - blockchain.local_blockchain - ERROR - Block #1 has an invalid hash
+2025-05-13 04:22:27,667 - werkzeug - WARNING -  * Debugger is active!
+2025-05-13 04:22:27,667 - werkzeug - INFO -  * Debugger PIN: 740-995-510
+2025-05-13 04:23:20,210 - blockchain.local_blockchain - ERROR - Block #1 has an invalid hash
+2025-05-13 04:23:20,225 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 04:23:20,225 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 04:23:20,234 - werkzeug - INFO -  * Restarting with watchdog (inotify)
+2025-05-13 04:23:20,635 - blockchain.local_blockchain - ERROR - Block #1 has an invalid hash
+2025-05-13 04:23:20,647 - werkzeug - WARNING -  * Debugger is active!
+2025-05-13 04:23:20,647 - werkzeug - INFO -  * Debugger PIN: 294-232-574
+2025-05-13 04:24:37,162 - blockchain.local_blockchain - ERROR - Block #1 has an invalid hash
+2025-05-13 04:24:37,171 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 04:24:37,171 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 04:24:37,171 - werkzeug - INFO -  * Restarting with stat
+2025-05-13 04:24:37,323 - blockchain.local_blockchain - ERROR - Block #1 has an invalid hash
+2025-05-13 04:24:37,327 - werkzeug - WARNING -  * Debugger is active!
+2025-05-13 04:24:37,328 - werkzeug - INFO -  * Debugger PIN: 740-995-510
+2025-05-13 04:25:52,150 - blockchain.local_blockchain - ERROR - Block #1 has an invalid hash
+2025-05-13 04:25:52,162 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 04:25:52,162 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 04:25:52,166 - werkzeug - INFO -  * Restarting with watchdog (inotify)
+2025-05-13 04:25:52,567 - blockchain.local_blockchain - ERROR - Block #1 has an invalid hash
+2025-05-13 04:25:52,579 - werkzeug - WARNING -  * Debugger is active!
+2025-05-13 04:25:52,579 - werkzeug - INFO -  * Debugger PIN: 294-232-574
+2025-05-13 04:26:19,175 - blockchain.local_blockchain - ERROR - Block #1 has an invalid hash
+2025-05-13 04:26:19,181 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 04:26:19,181 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 04:26:19,181 - werkzeug - INFO -  * Restarting with stat
+2025-05-13 04:26:19,324 - blockchain.local_blockchain - ERROR - Block #1 has an invalid hash
+2025-05-13 04:26:19,329 - werkzeug - WARNING -  * Debugger is active!
+2025-05-13 04:26:19,329 - werkzeug - INFO -  * Debugger PIN: 740-995-510
+2025-05-13 04:27:00,802 - werkzeug - ERROR - 127.0.0.1 - - [13/May/2025 04:27:00] code 400, message Bad request syntax ('\x13/multistream/1.0.0')
+2025-05-13 04:27:00,802 - werkzeug - INFO - 127.0.0.1 - - [13/May/2025 04:27:00] "[31m[1m\x13/multistream/1.0.0[0m" 400 -
+2025-05-13 04:28:54,990 - ERROR - Block #1 has an invalid hash
+2025-05-13 04:28:55,003 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 04:28:55,003 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 04:28:55,007 - INFO -  * Restarting with watchdog (inotify)
+2025-05-13 04:28:55,407 - ERROR - Block #1 has an invalid hash
+2025-05-13 04:28:55,419 - WARNING -  * Debugger is active!
+2025-05-13 04:28:55,420 - INFO -  * Debugger PIN: 294-232-574
+2025-05-13 04:47:06 - Invalid PDF structure: malware.pdf
